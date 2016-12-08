@@ -1,31 +1,5 @@
-div.nav-block-ribbon {
-	border: 1px solid red;
-}
-
-div.main_menu_left {
-	border: 1px solid red;
-}
-
-div.entry-content {
-	border: 1px solid red;
-}
-
-p.one_half {
-	color: red;
-}
-
-h1 {
-	color: #000000;
-}
-
-.one_fourth {
-	border-color: red;
-	border-width: 1px;
-	border-style: solid;
-}
-
-.copyright {
-	border-color: red;
-	border-width: 1px;
-	border-style: solid;
+.container-top-tail p {
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 36px;
 }

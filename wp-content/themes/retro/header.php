@@ -200,7 +200,7 @@ $logo_position = get_option( SHORTNAME . '_logo_position' );
 
 
 
-	<link rel="stylesheet" type="text/css" href="/css/custom.css">
+	<link rel="stylesheet" type="text/css" href="css/custom.css">
 	</head>
 	<body <?php body_class( $post_layout . ' ' . $slideshow /* . ' ' . $widget_title */ ); ?>>
 	<!--[if lt IE 8]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
